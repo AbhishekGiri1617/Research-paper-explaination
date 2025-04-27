@@ -42,7 +42,7 @@ It fetches **top 10 research papers** from **Google Scholar** based on your chos
 
 1. **Clone the repository:**
    ```bash
-   git clone (https://github.com/AbhishekGiri1617/Research-paper-explaination.git)
+   git clone https://github.com/AbhishekGiri1617/Research-paper-explaination.git
    ```
 
 2. **Install the required packages:**
